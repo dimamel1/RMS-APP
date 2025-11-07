@@ -1,0 +1,14 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "status": "Inactive"
+    }
+  ]
+}
