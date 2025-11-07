@@ -1,0 +1,26 @@
+{
+  "id": "user-001",
+  "name": "Dr. Marie Keller",
+  "email": "marie.keller@example.com",
+  "profession": "General Practitioner",
+  "subscriptionType": "premium-annual",
+  "organization": "Clinique Suisse Romande",
+  "favorites": [101, 109, 117],
+  "readArticles": [102, 105, 110, 124],
+  "preferences": {
+    "language": "fr",
+    "receiveNewsletter": true,
+    "darkMode": false,
+    "themeOrder": [
+      "general-medicine",
+      "cardiology",
+      "neurology",
+      "oncology",
+      "infectious-diseases",
+      "pediatrics",
+      "geriatrics",
+      "public-health"
+    ]
+  }
+}
+

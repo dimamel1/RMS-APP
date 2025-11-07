@@ -1,0 +1,58 @@
+[
+  {
+    "id": "free",
+    "name": "Free",
+    "price": 0,
+    "currency": "CHF",
+    "billingCycle": "none",
+    "description": "Limited access to open articles and infographics.",
+    "benefits": [
+      "Read open-access articles",
+      "Access patient infographics",
+      "Weekly newsletter"
+    ]
+  },
+  {
+    "id": "premium-monthly",
+    "name": "Premium Monthly",
+    "price": 29.99,
+    "currency": "CHF",
+    "billingCycle": "monthly",
+    "description": "Full digital access for independent physicians.",
+    "benefits": [
+      "Unlimited access to subscriber articles",
+      "Audio versions of featured content",
+      "Bookmark and note taking",
+      "Download issues as PDF"
+    ]
+  },
+  {
+    "id": "premium-annual",
+    "name": "Premium Annual",
+    "price": 299.99,
+    "currency": "CHF",
+    "billingCycle": "annual",
+    "description": "Best value for individual practitioners.",
+    "benefits": [
+      "All Premium Monthly features",
+      "Exclusive access to live webinars",
+      "Priority support",
+      "CME certificate tracking"
+    ]
+  },
+  {
+    "id": "institutional",
+    "name": "Institutional",
+    "price": 1999.99,
+    "currency": "CHF",
+    "billingCycle": "annual",
+    "description": "Enterprise access for hospitals and universities.",
+    "benefits": [
+      "Site-wide access for unlimited users",
+      "Dedicated account manager",
+      "Single sign-on integration",
+      "Custom analytics dashboard"
+    ]
+  }
+]
+

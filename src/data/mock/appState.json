@@ -1,0 +1,48 @@
+{
+  "featureFlags": {
+    "enableAudio": true,
+    "enableFavorites": true,
+    "enableSearch": true,
+    "enableInstitutionalUpsell": true
+  },
+  "ui": {
+    "accentColor": "#0f172a",
+    "backgroundLight": "#f8fafc",
+    "backgroundDark": "#0f172a",
+    "fontFamily": "System",
+    "defaultTheme": "light"
+  },
+  "editorial": {
+    "current": {
+      "title": "Redefining collaborative care across Switzerland",
+      "author": "Prof. Jean-Luc Martin",
+      "summary": "This month, we explore how data-driven insights help multidisciplinary teams create new care pathways.",
+      "image": "https://images.rmsapp.example/editorial/august-2025.jpg"
+    }
+  },
+  "menus": {
+    "bottomTabs": [
+      {
+        "key": "featured",
+        "label": "Featured",
+        "icon": "star"
+      },
+      {
+        "key": "my-selection",
+        "label": "My Selection",
+        "icon": "bookmark"
+      },
+      {
+        "key": "all-issues",
+        "label": "Issues",
+        "icon": "book"
+      },
+      {
+        "key": "menu",
+        "label": "Menu",
+        "icon": "menu"
+      }
+    ]
+  }
+}
+

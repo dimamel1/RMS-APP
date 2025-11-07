@@ -1,0 +1,38 @@
+[
+  {
+    "id": "infographic-001",
+    "title": "Stroke Warning Signs",
+    "summary": "Quick reference for recognizing FAST symptoms in the clinic.",
+    "image": "https://images.rmsapp.example/infographics/stroke-warning.jpg",
+    "themeSlug": "neurology"
+  },
+  {
+    "id": "infographic-002",
+    "title": "Heart Failure Action Plan",
+    "summary": "Tiered management recommendations for patients at home.",
+    "image": "https://images.rmsapp.example/infographics/heart-failure.jpg",
+    "themeSlug": "cardiology"
+  },
+  {
+    "id": "infographic-003",
+    "title": "Vaccination Schedule 2025",
+    "summary": "Simplified vaccination guidelines for adults and seniors.",
+    "image": "https://images.rmsapp.example/infographics/vaccination.jpg",
+    "themeSlug": "infectious-diseases"
+  },
+  {
+    "id": "infographic-004",
+    "title": "Pediatric Asthma Checklist",
+    "summary": "Stepwise management plan for caregivers.",
+    "image": "https://images.rmsapp.example/infographics/asthma.jpg",
+    "themeSlug": "pediatrics"
+  },
+  {
+    "id": "infographic-005",
+    "title": "Chronic Kidney Disease Stages",
+    "summary": "Visual guide to staging criteria and referral tips.",
+    "image": "https://images.rmsapp.example/infographics/ckd-stages.jpg",
+    "themeSlug": "general-medicine"
+  }
+]
+

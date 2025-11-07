@@ -1,0 +1,43 @@
+[
+  {
+    "id": "issue-2025-08",
+    "issueNumber": 412,
+    "title": "Clinical Frontiers August 2025",
+    "publishedAt": "2025-08-01",
+    "year": 2025,
+    "month": 8,
+    "coverImage": "https://images.rmsapp.example/issues/412-cover.jpg",
+    "articleIds": [101, 102, 103, 104, 105, 106, 107, 108]
+  },
+  {
+    "id": "issue-2025-07",
+    "issueNumber": 411,
+    "title": "Innovation in Practice July 2025",
+    "publishedAt": "2025-07-01",
+    "year": 2025,
+    "month": 7,
+    "coverImage": "https://images.rmsapp.example/issues/411-cover.jpg",
+    "articleIds": [109, 110, 111, 112, 113, 114, 115, 116]
+  },
+  {
+    "id": "issue-2025-06",
+    "issueNumber": 410,
+    "title": "Primary Care Essentials June 2025",
+    "publishedAt": "2025-06-01",
+    "year": 2025,
+    "month": 6,
+    "coverImage": "https://images.rmsapp.example/issues/410-cover.jpg",
+    "articleIds": [117, 118, 119, 120, 121, 122, 123, 124]
+  },
+  {
+    "id": "issue-2025-05",
+    "issueNumber": 409,
+    "title": "Future of Hospital Medicine May 2025",
+    "publishedAt": "2025-05-01",
+    "year": 2025,
+    "month": 5,
+    "coverImage": "https://images.rmsapp.example/issues/409-cover.jpg",
+    "articleIds": [125, 126, 127, 128, 129, 130, 131, 132]
+  }
+]
+

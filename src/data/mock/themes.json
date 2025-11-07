@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cardiology",
+    "name": "Cardiology",
+    "slug": "cardiology",
+    "description": "Heart and vascular medicine.",
+    "color": "#ef4444",
+    "order": 1
+  },
+  {
+    "id": "neurology",
+    "name": "Neurology",
+    "slug": "neurology",
+    "description": "Brain and nervous system.",
+    "color": "#8b5cf6",
+    "order": 2
+  },
+  {
+    "id": "oncology",
+    "name": "Oncology",
+    "slug": "oncology",
+    "description": "Cancer research and treatment.",
+    "color": "#f97316",
+    "order": 3
+  },
+  {
+    "id": "infectious-diseases",
+    "name": "Infectious Diseases",
+    "slug": "infectious-diseases",
+    "description": "Emerging pathogens and prevention.",
+    "color": "#22c55e",
+    "order": 4
+  },
+  {
+    "id": "pediatrics",
+    "name": "Pediatrics",
+    "slug": "pediatrics",
+    "description": "Child and adolescent health.",
+    "color": "#06b6d4",
+    "order": 5
+  },
+  {
+    "id": "geriatrics",
+    "name": "Geriatrics",
+    "slug": "geriatrics",
+    "description": "Care for older adults.",
+    "color": "#facc15",
+    "order": 6
+  },
+  {
+    "id": "public-health",
+    "name": "Public Health",
+    "slug": "public-health",
+    "description": "Population health & prevention.",
+    "color": "#0ea5e9",
+    "order": 7
+  },
+  {
+    "id": "general-medicine",
+    "name": "General Medicine",
+    "slug": "general-medicine",
+    "description": "Interdisciplinary care and practice.",
+    "color": "#a855f7",
+    "order": 8
+  }
+]
+

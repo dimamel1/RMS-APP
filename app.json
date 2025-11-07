@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "netgenswiss",
     "name": "rms-app-poc",
     "slug": "rms-app-poc",
     "version": "1.0.0",

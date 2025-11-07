@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ad-hero",
+    "placement": "home-hero",
+    "title": "Attend RMS Summit 2025",
+    "image": "https://images.rmsapp.example/ads/summit-2025.jpg",
+    "ctaLabel": "Reserve your seat",
+    "ctaUrl": "https://rmsapp.example/summit",
+    "trackingKey": "summit-2025-hero"
+  },
+  {
+    "id": "ad-article-inline",
+    "placement": "article-inline",
+    "title": "Poddle Audio Studio",
+    "image": "https://images.rmsapp.example/ads/poddle.jpg",
+    "ctaLabel": "Discover Poddle",
+    "ctaUrl": "https://poddle.example",
+    "trackingKey": "poddle-inline"
+  },
+  {
+    "id": "ad-footer",
+    "placement": "footer",
+    "title": "Upgrade to Premium Annual",
+    "image": "https://images.rmsapp.example/ads/premium-annual.jpg",
+    "ctaLabel": "See benefits",
+    "ctaUrl": "https://rmsapp.example/subscribe",
+    "trackingKey": "premium-upsell"
+  }
+]
+
