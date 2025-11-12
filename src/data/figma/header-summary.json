@@ -1,0 +1,13 @@
+{
+  "nodeId": "21:4173",
+  "nodeName": "header",
+  "extractedAt": "2025-11-11T11:03:39.721Z",
+  "images": [],
+  "icons": [
+    {
+      "id": "21:4150",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/433c994b-3458-47e6-9486-9bf8bb54cdfe",
+      "localPath": "./assets/figma/header-icons/icon-21-4150.png"
+    }
+  ]
+}

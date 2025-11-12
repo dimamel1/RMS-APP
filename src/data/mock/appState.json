@@ -24,23 +24,23 @@
     "bottomTabs": [
       {
         "key": "featured",
-        "label": "Featured",
-        "icon": "star"
+        "label": "À la une",
+        "icon": "home"
       },
       {
         "key": "my-selection",
-        "label": "My Selection",
-        "icon": "bookmark"
+        "label": "Ma sélection",
+        "icon": "heart"
       },
       {
         "key": "all-issues",
-        "label": "Issues",
+        "label": "Tous les numéros",
         "icon": "book"
       },
       {
         "key": "menu",
         "label": "Menu",
-        "icon": "menu"
+        "icon": "grid"
       }
     ]
   }

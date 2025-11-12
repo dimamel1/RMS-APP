@@ -1,0 +1,107 @@
+{
+  "nodeId": "1:4612",
+  "nodeName": "HOME - CONNECTED – 2",
+  "extractedAt": "2025-11-11T13:59:22.912Z",
+  "images": [
+    {
+      "id": "1:4622",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56745d34-1cf5-41de-b637-dc602fe07517",
+      "localPath": "./assets/figma/image-1-4622.png"
+    },
+    {
+      "id": "1:4623",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3509ac15-79f2-4539-8fc0-00ca43dd4ffa",
+      "localPath": "./assets/figma/image-1-4623.png"
+    },
+    {
+      "id": "1:4624",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/68d87d11-a3e9-495b-a3cc-3a928799d458",
+      "localPath": "./assets/figma/image-1-4624.png"
+    },
+    {
+      "id": "1:4627",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/83ee545f-615b-4d9b-9daf-a60dc539d119",
+      "localPath": "./assets/figma/image-1-4627.png"
+    },
+    {
+      "id": "1:4628",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f60e47c7-751c-4c33-83b8-dd559ded077d",
+      "localPath": "./assets/figma/image-1-4628.png"
+    },
+    {
+      "id": "1:4629",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/276a2546-cf12-4f78-b7b2-17cb0cc2f077",
+      "localPath": "./assets/figma/image-1-4629.png"
+    },
+    {
+      "id": "1:4630",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d64a329a-4a1e-443d-98d3-4bc9d47706d2",
+      "localPath": "./assets/figma/image-1-4630.png"
+    },
+    {
+      "id": "1:4648",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11352643-1649-4ced-b778-4e3c50878450",
+      "localPath": "./assets/figma/image-1-4648.png"
+    },
+    {
+      "id": "1:4649",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f834ee6f-4fb7-4544-bbd4-f461a738e2a1",
+      "localPath": "./assets/figma/image-1-4649.png"
+    },
+    {
+      "id": "1:4615",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bb24a6ae-6b04-4cf3-af62-3e86dd3265c5",
+      "localPath": "./assets/figma/image-1-4615.png"
+    },
+    {
+      "id": "21:4893",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1322b928-a173-44d6-bcf6-54d7e16f35d7",
+      "localPath": "./assets/figma/image-21-4893.png"
+    },
+    {
+      "id": "I21:6950;21:4844",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0b49368f-f853-4815-b3f0-61ff2d89cc27",
+      "localPath": "./assets/figma/image-I21-6950;21-4844.png"
+    },
+    {
+      "id": "I21:6970;21:4844",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3935c99e-67b2-4960-837c-4a04c9f0d473",
+      "localPath": "./assets/figma/image-I21-6970;21-4844.png"
+    },
+    {
+      "id": "I21:6982;21:4844",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cb1dc93c-4fb6-4322-be28-80d741607d9c",
+      "localPath": "./assets/figma/image-I21-6982;21-4844.png"
+    },
+    {
+      "id": "I21:7591;21:7587",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/34fa30af-5ed6-48fa-a6e7-0950af20699f",
+      "localPath": "./assets/figma/image-I21-7591;21-7587.png"
+    },
+    {
+      "id": "I21:7483;21:5463",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/31c7a7a8-cec9-40dc-8f0d-87659aefb239",
+      "localPath": "./assets/figma/image-I21-7483;21-5463.png"
+    },
+    {
+      "id": "I21:7485;21:5463",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/09198dc0-cf03-4ba2-bd9a-4937e66be627",
+      "localPath": "./assets/figma/image-I21-7485;21-5463.png"
+    },
+    {
+      "id": "I21:7487;21:5463",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/da432738-f947-4671-95e2-6f5404f661c7",
+      "localPath": "./assets/figma/image-I21-7487;21-5463.png"
+    },
+    {
+      "id": "I21:7489;21:5463",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1ab7fe35-35b6-4051-b832-cd0578079da8",
+      "localPath": "./assets/figma/image-I21-7489;21-5463.png"
+    },
+    {
+      "id": "I21:7491;21:5463",
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ea740a23-ea3a-46cf-9cea-0d89f5588190",
+      "localPath": "./assets/figma/image-I21-7491;21-5463.png"
+    }
+  ]
+}

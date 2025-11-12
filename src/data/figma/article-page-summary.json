@@ -1,0 +1,130 @@
+{
+  "nodeId": "1:973",
+  "nodeName": "Page type - article – 1",
+  "extractedAt": "2025-11-11T13:44:48.216Z",
+  "texts": [
+    {
+      "name": "Cet article présente des exemples d’approches non pharmacologiques en santé mentale, notamment la thérapie cognitivocomportementale pour l’insomnie, la pleine conscience, l’autohypnose, la relaxation, les remèdes traditionnels, l’activité physique et le co",
+      "text": "Cet article présente des exemples d’approches non pharmacologiques en santé mentale, notamment la th",
+      "fontSize": 14,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 350
+    },
+    {
+      "name": "* à lire\n\n** à lire absolument\n\n1 World Health Organization. Integrating mental health into primary care: a global perspective [En ligne]. 14 janvier 2008. Disponible sur: www.who.int/publications/i/item/9789241563680\n\n2 King M, Sibbald B, Ward E, et al. .",
+      "text": "* à lire\n\n** à lire absolument\n\n1 World Health Organization. Integrating mental health into primary ",
+      "fontSize": 14,
+      "fontFamily": "Inter",
+      "fontWeight": 400
+    },
+    {
+      "name": "Références",
+      "text": "Références",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontWeight": 700
+    },
+    {
+      "name": "Nguyen Toan Tran \nDépartement de médecine de famille, Unisanté, Université de Lausanne\n1011 Lausanne\nnguyen-toan.tran@unisante.ch\n\nThe Australian Centre for Public and Population Health Research (ACPPHR), Faculty of Health, University of Technology Sydney\n",
+      "text": "Nguyen Toan Tran \nDépartement de médecine de famille, Unisanté, Université de Lausanne\n1011 Lausanne",
+      "fontSize": 14,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 350
+    },
+    {
+      "name": "Auteurs",
+      "text": "Auteurs",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontWeight": 700
+    },
+    {
+      "name": "06 Mai 2025 | Numéro 917 ",
+      "text": "06 Mai 2025 | Numéro",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 350
+    },
+    {
+      "name": "06 Mai 2025 | Numéro 917 ",
+      "text": "917 ",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 700
+    },
+    {
+      "name": "Approches non pharmacologiques en santé mentale pour le médecin de famille",
+      "text": "Approches non pharmacologiques en santé mentale pour le médecin de famille",
+      "fontSize": 18,
+      "fontFamily": "FreightText Pro Bold",
+      "fontWeight": 700
+    },
+    {
+      "name": "Nguyen Toan Tran, Françoise Jermann, Hubert Maisonneuve, Matteo Coen",
+      "text": "Nguyen Toan Tran, Françoise Jermann, Hubert Maisonneuve, Matteo Coen",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 350
+    },
+    {
+      "name": "Médecine de famille\n",
+      "text": "Médecine de famille\n",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 700
+    },
+    {
+      "name": "Auteurs & références",
+      "text": "Auteurs & références",
+      "fontSize": 12,
+      "fontFamily": "Inter",
+      "fontWeight": 400
+    },
+    {
+      "name": "Abonnez-vous à la Revue Médicale Suisse, le journal de formation continue leader en Suisse romande.",
+      "text": "Abonnez-vous à la Revue Médicale Suisse, le journal de formation continue leader en Suisse romande.",
+      "fontSize": 16,
+      "fontFamily": "FreightSans Pro",
+      "fontWeight": 350
+    },
+    {
+      "name": "Découvrir nos offres",
+      "text": "Découvrir nos offres",
+      "fontSize": 15,
+      "fontFamily": "Neusa",
+      "fontWeight": 600
+    },
+    {
+      "name": "Ce contenu est réservé aux abonnés.\nVous souhaitez accéder à cet article?",
+      "text": "Ce contenu est réservé aux abonnés.\nVous souhaitez accéder à cet article?",
+      "fontSize": 16,
+      "fontFamily": "Inter",
+      "fontWeight": 400
+    },
+    {
+      "name": "Déjà abonné ? Connectez-vous",
+      "text": "Déjà abonné ? Connectez-vous",
+      "fontSize": 16,
+      "fontFamily": "Inter",
+      "fontWeight": 400
+    }
+  ],
+  "images": [
+    {
+      "id": "1:991",
+      "name": "Image 29"
+    },
+    {
+      "id": "1:992",
+      "name": "Image 30"
+    },
+    {
+      "id": "1:993",
+      "name": "Image 31"
+    },
+    {
+      "id": "21:631",
+      "name": "Image 11"
+    }
+  ]
+}

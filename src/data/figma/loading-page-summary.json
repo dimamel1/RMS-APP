@@ -1,0 +1,43 @@
+{
+  "nodeId": "1:5007",
+  "nodeName": "LOADING PAGE – 1",
+  "extractedAt": "2025-11-11T14:55:51.066Z",
+  "texts": [],
+  "images": [],
+  "absoluteBoundingBox": {
+    "x": -1373,
+    "y": 1123,
+    "width": 390,
+    "height": 844
+  },
+  "backgroundColor": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ]
+}

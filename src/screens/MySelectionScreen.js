@@ -5,6 +5,7 @@ import ArticleList from '../components/ArticleList';
 import SectionHeader from '../components/SectionHeader';
 import { useAppSelector } from '../store/hooks';
 import { selectFavorites } from '../store/slices/articlesSlice';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const MySelectionScreen = ({ navigation }) => {
   const favorites = useAppSelector(selectFavorites);
@@ -43,7 +44,7 @@ const styles = StyleSheet.create({
   },
   emptyState: {
     backgroundColor: '#ffffff',
-    borderRadius: 20,
+    borderRadius: 0,
     padding: 32,
     alignItems: 'center',
     gap: 12,
@@ -55,11 +56,13 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: '700',
     color: '#0f172a',
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   emptySubtitle: {
     fontSize: 14,
     color: '#64748b',
     textAlign: 'center',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
 });
 

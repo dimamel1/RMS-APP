@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Nutrition-Obésité",
+    "text": "Cardiologie",
+    "fontSize": 12,
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 700,
+    "color": {
+      "r": 0.7921568751335144,
+      "g": 0.07058823853731155,
+      "b": 0.11764705926179886,
+      "a": 1
+    }
+  },
+  {
+    "name": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT POINT",
+    "text": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT POINT",
+    "fontSize": 26,
+    "fontFamily": "Neusa",
+    "fontWeight": 700,
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    }
+  },
+  {
+    "name": "La prise en charge des patients atteints de maladies rhumatismales inflammatoires a connu des changements majeurs...",
+    "text": "La prise en charge des patients atteints de maladies rhumatismales inflammatoires a connu des changements majeurs...",
+    "fontSize": 16,
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 350,
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    }
+  },
+  {
+    "name": "Éditorial",
+    "text": "Éditorial",
+    "fontSize": 14,
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 600,
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    }
+  }
+]

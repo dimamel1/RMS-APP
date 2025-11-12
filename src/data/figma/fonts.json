@@ -1,0 +1,149 @@
+[
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": null,
+    "fontWeight": 400,
+    "fontStyle": "Regular",
+    "exampleText": "Médecine de famille"
+  },
+  {
+    "fontFamily": "Roboto",
+    "fontPostScriptName": null,
+    "fontWeight": 400,
+    "fontStyle": "Regular",
+    "exampleText": "off"
+  },
+  {
+    "fontFamily": "FreightText Pro Bold",
+    "fontPostScriptName": "FreightTextProBold-Regular",
+    "fontWeight": 700,
+    "fontStyle": "Regular",
+    "exampleText": "Neurologie"
+  },
+  {
+    "fontFamily": "Neusa",
+    "fontPostScriptName": "Neusa-Bold",
+    "fontWeight": 700,
+    "fontStyle": "Bold",
+    "exampleText": "Derniers numéros"
+  },
+  {
+    "fontFamily": "FreightSans Pro",
+    "fontPostScriptName": "FreightSansProBook-Regular",
+    "fontWeight": 350,
+    "fontStyle": "Book",
+    "exampleText": "18 décembre 2024 | N"
+  },
+  {
+    "fontFamily": "FreightSans Pro",
+    "fontPostScriptName": "FreightSansProBold-Regular",
+    "fontWeight": 700,
+    "fontStyle": "Bold",
+    "exampleText": "917 "
+  },
+  {
+    "fontFamily": "Neusa",
+    "fontPostScriptName": "Neusa-SemiBold",
+    "fontWeight": 600,
+    "fontStyle": "SemiBold",
+    "exampleText": "2025"
+  },
+  {
+    "fontFamily": "FreightSansCndPro",
+    "fontPostScriptName": "FreightSansCndPro-Book",
+    "fontWeight": 350,
+    "fontStyle": "Book",
+    "exampleText": "Pédiatrie"
+  },
+  {
+    "fontFamily": "FreightSans Pro",
+    "fontPostScriptName": "FreightSansProSemibold-Regular",
+    "fontWeight": 600,
+    "fontStyle": "Semibold",
+    "exampleText": "Néphrologie"
+  },
+  {
+    "fontFamily": "FreightText Pro",
+    "fontPostScriptName": "FreightTextProBook-Regular",
+    "fontWeight": 400,
+    "fontStyle": "Book",
+    "exampleText": "43 numéros et les su"
+  },
+  {
+    "fontFamily": "SF Pro",
+    "fontPostScriptName": "SFPro-Semibold",
+    "fontWeight": 590,
+    "fontStyle": "Semibold",
+    "exampleText": "App Icon Template fo"
+  },
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": null,
+    "fontWeight": 500,
+    "fontStyle": "Medium",
+    "exampleText": "Easy-to-use document"
+  },
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": null,
+    "fontWeight": 700,
+    "fontStyle": "Bold",
+    "exampleText": "Highlight"
+  },
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": null,
+    "fontWeight": 600,
+    "fontStyle": "Semi Bold",
+    "exampleText": "006FFD"
+  },
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": "Inter-Black",
+    "fontWeight": 900,
+    "fontStyle": "Black",
+    "exampleText": "Color"
+  },
+  {
+    "fontFamily": "Inter",
+    "fontPostScriptName": null,
+    "fontWeight": 800,
+    "fontStyle": "Extra Bold",
+    "exampleText": "Aa"
+  },
+  {
+    "fontFamily": "SF Pro Text",
+    "fontPostScriptName": "SFProText-Semibold",
+    "fontWeight": 600,
+    "fontStyle": "Semibold",
+    "exampleText": "9:41"
+  },
+  {
+    "fontFamily": "SF Pro Text",
+    "fontPostScriptName": "SFProText-Regular",
+    "fontWeight": 400,
+    "fontStyle": "Regular",
+    "exampleText": "􀛨"
+  },
+  {
+    "fontFamily": "SF Pro Display",
+    "fontPostScriptName": "SFProDisplay-Regular",
+    "fontWeight": 400,
+    "fontStyle": "Regular",
+    "exampleText": "1"
+  },
+  {
+    "fontFamily": "SF Pro Text",
+    "fontPostScriptName": "SFProText-Bold",
+    "fontWeight": 700,
+    "fontStyle": "Bold",
+    "exampleText": " "
+  },
+  {
+    "fontFamily": "SF Pro Text",
+    "fontPostScriptName": "SFProText-Light",
+    "fontWeight": 300,
+    "fontStyle": "Light",
+    "exampleText": "Z"
+  }
+]

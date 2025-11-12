@@ -1,0 +1,390 @@
+{
+  "nodeId": "21:10523",
+  "nodeName": "listed-articles",
+  "extractedAt": "2025-11-11T14:42:17.413Z",
+  "texts": [
+    {
+      "id": "I21:10524;21:5465",
+      "name": "Title",
+      "text": "Hygiène de vie et prévention de la maladie rénale chronique",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "lineHeight": 20,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1699,
+        "width": 239,
+        "height": 40
+      }
+    },
+    {
+      "id": "I21:10524;21:5467",
+      "name": "date",
+      "text": "28 février 2024 | numéro",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "lineHeight": 16.652999877929688,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1783,
+        "width": 128,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10524;21:5468",
+      "name": "numero",
+      "text": "863",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 17.263999938964844,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 854,
+        "y": 1783,
+        "width": 21,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10524;21:5470",
+      "name": "category",
+      "text": "Pédiatrie",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 12.59999942779541,
+      "color": {
+        "r": 0.7921568751335144,
+        "g": 0.07058823853731155,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 971,
+        "y": 1701,
+        "width": 103,
+        "height": 13
+      }
+    },
+    {
+      "id": "I21:10526;21:5465",
+      "name": "Title",
+      "text": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "lineHeight": 20,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1773,
+        "width": 239,
+        "height": 40
+      }
+    },
+    {
+      "id": "I21:10526;21:5467",
+      "name": "date",
+      "text": "23 décembre 2023 | numéro",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 400,
+      "fontStyle": "Book",
+      "lineHeight": 15.234375,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1857,
+        "width": 128,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10526;21:5468",
+      "name": "numero",
+      "text": "851",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 15.234375,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 854,
+        "y": 1857,
+        "width": 21,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10526;21:5470",
+      "name": "category",
+      "text": "Médecine interne\ngénérale",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 12.59999942779541,
+      "color": {
+        "r": 0.7921568751335144,
+        "g": 0.07058823853731155,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 971,
+        "y": 1775,
+        "width": 103,
+        "height": 26
+      }
+    },
+    {
+      "id": "I21:10528;21:5465",
+      "name": "Title",
+      "text": "Physiopathologie et prise en charge de l’urticaire chronique",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "lineHeight": 20,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1860,
+        "width": 239,
+        "height": 40
+      }
+    },
+    {
+      "id": "I21:10528;21:5467",
+      "name": "date",
+      "text": "23 décembre 2023 | numéro",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "lineHeight": 16.652999877929688,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1944,
+        "width": 144,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10528;21:5468",
+      "name": "numero",
+      "text": "851",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 17.263999938964844,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 854,
+        "y": 1944,
+        "width": 19,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10528;21:5470",
+      "name": "category",
+      "text": "Dermatologie",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 12.59999942779541,
+      "color": {
+        "r": 0.7921568751335144,
+        "g": 0.07058823853731155,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 971,
+        "y": 1862,
+        "width": 103,
+        "height": 13
+      }
+    },
+    {
+      "id": "I21:10530;21:5465",
+      "name": "Title",
+      "text": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+      "fontSize": 16,
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "lineHeight": 20,
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 1920,
+        "width": 239,
+        "height": 60
+      }
+    },
+    {
+      "id": "I21:10530;21:5467",
+      "name": "date",
+      "text": "16 avril 2023 | numéro",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 400,
+      "fontStyle": "Book",
+      "lineHeight": 15.234375,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 722,
+        "y": 2004,
+        "width": 128,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10530;21:5468",
+      "name": "numero",
+      "text": "685",
+      "fontSize": 13,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 15.234375,
+      "color": {
+        "r": 0.12156862765550613,
+        "g": 0.12156862765550613,
+        "b": 0.12156862765550613,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 854,
+        "y": 2004,
+        "width": 21,
+        "height": 17
+      }
+    },
+    {
+      "id": "I21:10530;21:5470",
+      "name": "category",
+      "text": "Orthopédie",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 12.59999942779541,
+      "color": {
+        "r": 0.7921568751335144,
+        "g": 0.07058823853731155,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 971,
+        "y": 1922,
+        "width": 103,
+        "height": 13
+      }
+    }
+  ],
+  "images": [],
+  "absoluteBoundingBox": {
+    "x": 722,
+    "y": 1699,
+    "width": 352,
+    "height": 281
+  },
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "fills": [],
+  "background": []
+}

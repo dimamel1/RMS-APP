@@ -1,0 +1,252 @@
+{
+  "id": "21:4877",
+  "name": "section-title",
+  "type": "COMPONENT",
+  "scrollBehavior": "SCROLLS",
+  "children": [
+    {
+      "id": "21:4874",
+      "name": "title",
+      "type": "FRAME",
+      "scrollBehavior": "SCROLLS",
+      "children": [
+        {
+          "id": "21:4875",
+          "name": "Notre sélection",
+          "type": "TEXT",
+          "scrollBehavior": "SCROLLS",
+          "blendMode": "PASS_THROUGH",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              }
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "strokeAlign": "OUTSIDE",
+          "absoluteBoundingBox": {
+            "x": 773.2918701171875,
+            "y": 770,
+            "width": 134,
+            "height": 15
+          },
+          "absoluteRenderBounds": {
+            "x": 774.0618896484375,
+            "y": 764.8699951171875,
+            "width": 131.92041015625,
+            "height": 20.3280029296875
+          },
+          "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+          },
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "characters": "Notre sélection",
+          "characterStyleOverrides": [],
+          "styleOverrideTable": {},
+          "lineTypes": [
+            "NONE"
+          ],
+          "lineIndentations": [
+            0
+          ],
+          "style": {
+            "fontFamily": "Neusa",
+            "fontPostScriptName": "Neusa-Bold",
+            "fontStyle": "Bold",
+            "fontWeight": 700,
+            "textCase": "UPPER",
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 22,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 26.400001525878906,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+          },
+          "layoutVersion": 5,
+          "exportSettings": [
+            {
+              "suffix": "",
+              "format": "PNG",
+              "constraint": {
+                "type": "SCALE",
+                "value": 1
+              }
+            }
+          ],
+          "effects": [],
+          "interactions": []
+        }
+      ],
+      "blendMode": "PASS_THROUGH",
+      "clipsContent": false,
+      "background": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE",
+      "backgroundColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "layoutMode": "HORIZONTAL",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisAlignItems": "CENTER",
+      "paddingRight": 6,
+      "itemSpacing": 10,
+      "layoutWrap": "NO_WRAP",
+      "absoluteBoundingBox": {
+        "x": 773.2918701171875,
+        "y": 770,
+        "width": 140,
+        "height": 15
+      },
+      "absoluteRenderBounds": {
+        "x": 773.2918701171875,
+        "y": 764.8699951171875,
+        "width": 140,
+        "height": 20.3280029296875
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "layoutSizingHorizontal": "HUG",
+      "layoutSizingVertical": "HUG",
+      "effects": [],
+      "interactions": []
+    },
+    {
+      "id": "21:4876",
+      "name": "line",
+      "type": "LINE",
+      "scrollBehavior": "SCROLLS",
+      "rotation": 8.742277657347563e-8,
+      "blendMode": "PASS_THROUGH",
+      "fills": [],
+      "strokes": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      ],
+      "strokeWeight": 1,
+      "strokeAlign": "CENTER",
+      "absoluteBoundingBox": {
+        "x": 913.2918701171875,
+        "y": 785,
+        "width": 212,
+        "height": 0.0000185336286904203
+      },
+      "absoluteRenderBounds": {
+        "x": 913.2918701171875,
+        "y": 784,
+        "width": 212,
+        "height": 1
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 1,
+      "layoutSizingHorizontal": "FILL",
+      "layoutSizingVertical": "FIXED",
+      "exportSettings": [
+        {
+          "suffix": "",
+          "format": "PNG",
+          "constraint": {
+            "type": "SCALE",
+            "value": 1
+          }
+        }
+      ],
+      "effects": [],
+      "interactions": []
+    }
+  ],
+  "blendMode": "PASS_THROUGH",
+  "clipsContent": false,
+  "background": [],
+  "fills": [],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "layoutMode": "HORIZONTAL",
+  "primaryAxisSizingMode": "FIXED",
+  "counterAxisAlignItems": "MAX",
+  "primaryAxisAlignItems": "MAX",
+  "layoutWrap": "NO_WRAP",
+  "absoluteBoundingBox": {
+    "x": 773.2918701171875,
+    "y": 770,
+    "width": 352,
+    "height": 15
+  },
+  "absoluteRenderBounds": {
+    "x": 773.2918701171875,
+    "y": 764.8699951171875,
+    "width": 352,
+    "height": 20.3280029296875
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutSizingHorizontal": "FIXED",
+  "layoutSizingVertical": "HUG",
+  "effects": [],
+  "interactions": []
+}

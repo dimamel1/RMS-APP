@@ -1,0 +1,180 @@
+{
+  "id": "21:4030",
+  "name": "icon/audio",
+  "type": "COMPONENT",
+  "scrollBehavior": "SCROLLS",
+  "children": [
+    {
+      "id": "21:3961",
+      "name": "noun-audio-7415309",
+      "type": "GROUP",
+      "scrollBehavior": "SCROLLS",
+      "children": [
+        {
+          "id": "21:3962",
+          "name": "Tracé 110",
+          "type": "VECTOR",
+          "scrollBehavior": "SCROLLS",
+          "boundVariables": {
+            "fills": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:14:7299"
+              }
+            ],
+            "strokes": [
+              {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:14:7299"
+              }
+            ]
+          },
+          "blendMode": "PASS_THROUGH",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.12156862765550613,
+                "g": 0.12156862765550613,
+                "b": 0.12156862765550613,
+                "a": 1
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:14:7299"
+                }
+              }
+            }
+          ],
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.12156862765550613,
+                "g": 0.12156862765550613,
+                "b": 0.12156862765550613,
+                "a": 1
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:14:7299"
+                }
+              }
+            }
+          ],
+          "strokeWeight": 0.30000001192092896,
+          "strokeAlign": "CENTER",
+          "strokeCap": "ROUND",
+          "absoluteBoundingBox": {
+            "x": 909.2918701171875,
+            "y": -31.974597930908203,
+            "width": 23.899621963500977,
+            "height": 17.30771827697754
+          },
+          "absoluteRenderBounds": {
+            "x": 909.2918701171875,
+            "y": -32.12459945678711,
+            "width": 24,
+            "height": 17.60771942138672
+          },
+          "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+          },
+          "effects": [],
+          "interactions": []
+        }
+      ],
+      "blendMode": "PASS_THROUGH",
+      "clipsContent": false,
+      "background": [],
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "strokeAlign": "INSIDE",
+      "backgroundColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "absoluteBoundingBox": {
+        "x": 909.2918701171875,
+        "y": -31.974597930908203,
+        "width": 23.899621963500977,
+        "height": 17.30771827697754
+      },
+      "absoluteRenderBounds": {
+        "x": 909.2918701171875,
+        "y": -32.12459945678711,
+        "width": 24,
+        "height": 17.60771942138672
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "effects": [],
+      "interactions": []
+    }
+  ],
+  "blendMode": "PASS_THROUGH",
+  "clipsContent": true,
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "visible": false,
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "visible": false,
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "absoluteBoundingBox": {
+    "x": 909.2918701171875,
+    "y": -35.32073974609375,
+    "width": 24,
+    "height": 24
+  },
+  "absoluteRenderBounds": {
+    "x": 909.2918701171875,
+    "y": -35.32073974609375,
+    "width": 24,
+    "height": 24
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "effects": [],
+  "interactions": []
+}

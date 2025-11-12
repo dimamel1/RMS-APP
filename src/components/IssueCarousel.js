@@ -1,5 +1,6 @@
 import React from 'react';
 import { FlatList, Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const IssueCarousel = ({ issues, onSelect }) => {
   return (
@@ -30,7 +31,7 @@ const styles = StyleSheet.create({
   },
   card: {
     width: 160,
-    borderRadius: 18,
+    borderRadius: 0,
     backgroundColor: '#ffffff',
     padding: 12,
     elevation: 2,
@@ -42,7 +43,7 @@ const styles = StyleSheet.create({
   cover: {
     width: '100%',
     height: 180,
-    borderRadius: 12,
+    borderRadius: 0,
     marginBottom: 12,
   },
   issueNumber: {
@@ -50,16 +51,19 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     color: '#2563eb',
     marginBottom: 4,
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBold-Regular'), // FreightSans Pro Bold from Figma
   },
   title: {
     fontSize: 14,
     fontWeight: '600',
     color: '#0f172a',
     marginBottom: 4,
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   date: {
     fontSize: 12,
     color: '#64748b',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
   separator: {
     width: 12,

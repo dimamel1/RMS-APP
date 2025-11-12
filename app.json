@@ -14,7 +14,10 @@
   },
   "ios": {
     "supportsTablet": true,
-    "bundleIdentifier": "ch.netgenswiss.rmsapppoc"
+    "bundleIdentifier": "ch.netgenswiss.rmsapppoc",
+    "infoPlist": {
+      "ITSAppUsesNonExemptEncryption": false
+    }
   },
   "android": {
     "package": "ch.netgenswiss.rmsapppoc",
@@ -38,4 +41,3 @@
     }
   }
 }
-

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "21:4892",
+    "name": "article/main",
+    "type": "COMPONENT",
+    "imageRef": "92a9675e20d392ba5e20ce1fdd4008cd009a67f2",
+    "absoluteBoundingBox": {
+      "x": 1689.8238525390625,
+      "y": 10.91400146484375,
+      "width": 391,
+      "height": 440
+    }
+  },
+  {
+    "id": "21:4892",
+    "name": "article/main",
+    "type": "COMPONENT",
+    "imageRef": "92a9675e20d392ba5e20ce1fdd4008cd009a67f2",
+    "absoluteBoundingBox": {
+      "x": 1689.8238525390625,
+      "y": 10.91400146484375,
+      "width": 391,
+      "height": 440
+    },
+    "isBackground": true
+  }
+]

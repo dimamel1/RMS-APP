@@ -1,5 +1,6 @@
 import React from 'react';
 import { ImageBackground, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const InfographicsCarousel = ({ data }) => (
   <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.container}>
@@ -24,11 +25,11 @@ const styles = StyleSheet.create({
     width: 220,
     height: 160,
     marginRight: 12,
-    borderRadius: 16,
+    borderRadius: 0,
     overflow: 'hidden',
   },
   image: {
-    borderRadius: 16,
+    borderRadius: 0,
   },
   overlay: {
     flex: 1,
@@ -41,10 +42,12 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#ffffff',
     marginBottom: 6,
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   summary: {
     fontSize: 12,
     color: '#e2e8f0',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
 });
 

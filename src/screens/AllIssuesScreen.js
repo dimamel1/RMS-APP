@@ -3,6 +3,7 @@ import { FlatList, Image, StyleSheet, Text, TouchableOpacity, View } from 'react
 
 import { useAppSelector } from '../store/hooks';
 import { selectIssues } from '../store/slices/issuesSlice';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const AllIssuesScreen = ({ navigation }) => {
   const issues = useAppSelector(selectIssues);
@@ -43,13 +44,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     gap: 16,
     backgroundColor: '#ffffff',
-    borderRadius: 20,
+    borderRadius: 0,
     padding: 16,
   },
   cover: {
     width: 120,
     height: 160,
-    borderRadius: 16,
+    borderRadius: 0,
   },
   content: {
     flex: 1,
@@ -60,21 +61,25 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#2563eb',
     marginBottom: 8,
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBold-Regular'), // FreightSans Pro Bold from Figma
   },
   title: {
     fontSize: 18,
     fontWeight: '700',
     color: '#0f172a',
     marginBottom: 8,
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   date: {
     fontSize: 14,
     color: '#475569',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
   meta: {
     fontSize: 12,
     color: '#64748b',
     marginTop: 12,
+    fontFamily: getFontFamilyFromPostScript('Inter-Regular'), // Inter 400 from Figma
   },
   separator: {
     height: 16,

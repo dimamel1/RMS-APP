@@ -1,0 +1,87 @@
+{
+  "Inter": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontStyle": "Regular"
+  },
+  "Roboto": {
+    "fontFamily": "Roboto",
+    "fontWeight": 400,
+    "fontStyle": "Regular"
+  },
+  "FreightTextProBold-Regular": {
+    "fontFamily": "FreightText Pro Bold",
+    "fontWeight": 700,
+    "fontStyle": "Regular"
+  },
+  "Neusa-Bold": {
+    "fontFamily": "Neusa",
+    "fontWeight": 700,
+    "fontStyle": "Bold"
+  },
+  "FreightSansProBook-Regular": {
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 350,
+    "fontStyle": "Book"
+  },
+  "FreightSansProBold-Regular": {
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 700,
+    "fontStyle": "Bold"
+  },
+  "Neusa-SemiBold": {
+    "fontFamily": "Neusa",
+    "fontWeight": 600,
+    "fontStyle": "SemiBold"
+  },
+  "FreightSansCndPro-Book": {
+    "fontFamily": "FreightSansCndPro",
+    "fontWeight": 350,
+    "fontStyle": "Book"
+  },
+  "FreightSansProSemibold-Regular": {
+    "fontFamily": "FreightSans Pro",
+    "fontWeight": 600,
+    "fontStyle": "Semibold"
+  },
+  "FreightTextProBook-Regular": {
+    "fontFamily": "FreightText Pro",
+    "fontWeight": 400,
+    "fontStyle": "Book"
+  },
+  "SFPro-Semibold": {
+    "fontFamily": "SF Pro",
+    "fontWeight": 590,
+    "fontStyle": "Semibold"
+  },
+  "Inter-Black": {
+    "fontFamily": "Inter",
+    "fontWeight": 900,
+    "fontStyle": "Black"
+  },
+  "SFProText-Semibold": {
+    "fontFamily": "SF Pro Text",
+    "fontWeight": 600,
+    "fontStyle": "Semibold"
+  },
+  "SFProText-Regular": {
+    "fontFamily": "SF Pro Text",
+    "fontWeight": 400,
+    "fontStyle": "Regular"
+  },
+  "SFProDisplay-Regular": {
+    "fontFamily": "SF Pro Display",
+    "fontWeight": 400,
+    "fontStyle": "Regular"
+  },
+  "SFProText-Bold": {
+    "fontFamily": "SF Pro Text",
+    "fontWeight": 700,
+    "fontStyle": "Bold"
+  },
+  "SFProText-Light": {
+    "fontFamily": "SF Pro Text",
+    "fontWeight": 300,
+    "fontStyle": "Light"
+  }
+}

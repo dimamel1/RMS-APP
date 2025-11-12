@@ -1,0 +1,207 @@
+{
+  "sections": [
+    {
+      "id": "21:6645",
+      "name": "header",
+      "type": "INSTANCE",
+      "y": 1123,
+      "height": 80
+    },
+    {
+      "id": "21:6645",
+      "name": "header",
+      "type": "INSTANCE",
+      "y": 1123,
+      "height": 80
+    },
+    {
+      "id": "21:4893",
+      "name": "article/main",
+      "type": "INSTANCE",
+      "y": 1241,
+      "height": 440
+    },
+    {
+      "id": "21:4893",
+      "name": "article/main",
+      "type": "INSTANCE",
+      "y": 1241,
+      "height": 440
+    },
+    {
+      "id": "21:10523",
+      "name": "listed-articles",
+      "type": "FRAME",
+      "y": 1699,
+      "height": 281
+    },
+    {
+      "id": "21:10523",
+      "name": "listed-articles",
+      "type": "FRAME",
+      "y": 1699,
+      "height": 281
+    },
+    {
+      "id": "21:6946",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 2045.89599609375,
+      "height": 15
+    },
+    {
+      "id": "21:6946",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 2045.89599609375,
+      "height": 15
+    },
+    {
+      "id": "21:6994",
+      "name": "Frame 20",
+      "type": "FRAME",
+      "y": 2081.930908203125,
+      "height": 1068
+    },
+    {
+      "id": "1:4648",
+      "name": "Image 3",
+      "type": "RECTANGLE",
+      "y": 3187,
+      "height": 90.72164916992188
+    },
+    {
+      "id": "1:4647",
+      "name": "PUBLICITÉ",
+      "type": "TEXT",
+      "y": 3278.1650390625,
+      "height": 16
+    },
+    {
+      "id": "21:6995",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 3325,
+      "height": 15
+    },
+    {
+      "id": "21:6995",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 3325,
+      "height": 15
+    },
+    {
+      "id": "1:4649",
+      "name": "RMS_908_complet",
+      "type": "RECTANGLE",
+      "y": 3352,
+      "height": 497
+    },
+    {
+      "id": "21:4578",
+      "name": "button",
+      "type": "INSTANCE",
+      "y": 3863,
+      "height": 30
+    },
+    {
+      "id": "21:7183",
+      "name": "Frame 21",
+      "type": "FRAME",
+      "y": 3935,
+      "height": 462
+    },
+    {
+      "id": "1:4614",
+      "name": "Rectangle 452",
+      "type": "RECTANGLE",
+      "y": 4373,
+      "height": 377.55126953125
+    },
+    {
+      "id": "21:7187",
+      "name": "Frame 23",
+      "type": "FRAME",
+      "y": 4394.90185546875,
+      "height": 384
+    },
+    {
+      "id": "21:7188",
+      "name": "Frame 24",
+      "type": "FRAME",
+      "y": 4795.611328125,
+      "height": 344
+    },
+    {
+      "id": "21:7373",
+      "name": "Frame 25",
+      "type": "FRAME",
+      "y": 5172.2060546875,
+      "height": 111
+    },
+    {
+      "id": "21:7374",
+      "name": "Frame 26",
+      "type": "FRAME",
+      "y": 5307,
+      "height": 344
+    },
+    {
+      "id": "21:7451",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 5709.806640625,
+      "height": 15
+    },
+    {
+      "id": "21:7451",
+      "name": "section-title",
+      "type": "INSTANCE",
+      "y": 5709.806640625,
+      "height": 15
+    },
+    {
+      "id": "1:4625",
+      "name": "Rectangle 423",
+      "type": "RECTANGLE",
+      "y": 5722.306640625,
+      "height": 435
+    },
+    {
+      "id": "1:4626",
+      "name": "Groupe défilant 2",
+      "type": "GROUP",
+      "y": 5750.53515625,
+      "height": 297
+    },
+    {
+      "id": "21:7473",
+      "name": "pagination",
+      "type": "INSTANCE",
+      "y": 6059,
+      "height": 6
+    },
+    {
+      "id": "21:7455",
+      "name": "button",
+      "type": "INSTANCE",
+      "y": 6095.9375,
+      "height": 30
+    },
+    {
+      "id": "21:7480",
+      "name": "Frame 21",
+      "type": "FRAME",
+      "y": 6181,
+      "height": 561
+    },
+    {
+      "id": "21:7591",
+      "name": "banner/newsletter",
+      "type": "INSTANCE",
+      "y": 6849,
+      "height": 145
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import SectionHeader from '../components/SectionHeader';
 import { useAppDispatch, useAppSelector } from '../store/hooks';
 import { selectSubscriptionPlans, selectUserProfile, toggleNewsletter } from '../store/slices/userSlice';
 import { selectAdvertisements, selectNewsletter } from '../store/slices/uiSlice';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const MenuScreen = () => {
   const dispatch = useAppDispatch();
@@ -85,7 +86,7 @@ const styles = StyleSheet.create({
   },
   card: {
     backgroundColor: '#ffffff',
-    borderRadius: 20,
+    borderRadius: 0,
     padding: 20,
     gap: 12,
   },
@@ -97,19 +98,23 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: '700',
     color: '#0f172a',
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   cardSubtitle: {
     fontSize: 14,
     color: '#475569',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
   cardMeta: {
     fontSize: 12,
     color: '#94a3b8',
+    fontFamily: getFontFamilyFromPostScript('Inter-Regular'), // Inter 400 from Figma
   },
   cardPrice: {
     fontSize: 16,
     fontWeight: '600',
     color: '#2563eb',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProSemibold-Regular'), // FreightSans Pro Semibold from Figma
   },
   benefits: {
     gap: 6,
@@ -117,17 +122,19 @@ const styles = StyleSheet.create({
   benefitItem: {
     fontSize: 13,
     color: '#475569',
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
   primaryButton: {
     backgroundColor: '#2563eb',
     paddingVertical: 14,
-    borderRadius: 14,
+    borderRadius: 0,
     alignItems: 'center',
   },
   primaryButtonLabel: {
     color: '#ffffff',
     fontSize: 15,
     fontWeight: '700',
+    fontFamily: getFontFamilyFromPostScript('Neusa-SemiBold'), // Neusa SemiBold from Figma (for buttons)
   },
 });
 

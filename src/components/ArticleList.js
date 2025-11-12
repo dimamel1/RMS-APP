@@ -3,6 +3,7 @@ import { FlatList, Image, StyleSheet, Text, TouchableOpacity, View } from 'react
 
 import { selectThemes } from '../store/slices/themesSlice';
 import { useAppSelector } from '../store/hooks';
+import { getFontFamilyFromPostScript } from '../theme/fonts';
 
 const ArticleList = ({ data, onPress }) => {
   const themes = useAppSelector(selectThemes);
@@ -46,7 +47,7 @@ const ArticleList = ({ data, onPress }) => {
 const styles = StyleSheet.create({
   card: {
     backgroundColor: '#ffffff',
-    borderRadius: 16,
+    borderRadius: 0,
     overflow: 'hidden',
   },
   thumbnail: {
@@ -62,19 +63,22 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     paddingHorizontal: 10,
     paddingVertical: 4,
-    borderRadius: 999,
+    borderRadius: 0,
     marginBottom: 8,
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBold-Regular'), // FreightSans Pro Bold from Figma
   },
   title: {
     fontSize: 18,
     fontWeight: '700',
     color: '#0f172a',
     marginBottom: 6,
+    fontFamily: getFontFamilyFromPostScript('FreightTextProBold-Regular'), // FreightText Pro Bold from Figma
   },
   subtitle: {
     fontSize: 14,
     color: '#475569',
     marginBottom: 12,
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBook-Regular'), // FreightSans Pro Book from Figma
   },
   metaRow: {
     flexDirection: 'row',
@@ -84,6 +88,7 @@ const styles = StyleSheet.create({
   metaText: {
     fontSize: 12,
     color: '#64748b',
+    fontFamily: getFontFamilyFromPostScript('Inter-Regular'), // Inter 400 from Figma
   },
   badge: {
     backgroundColor: '#ef4444',
@@ -92,7 +97,8 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     paddingHorizontal: 6,
     paddingVertical: 2,
-    borderRadius: 4,
+    borderRadius: 0,
+    fontFamily: getFontFamilyFromPostScript('FreightSansProBold-Regular'), // FreightSans Pro Bold from Figma
   },
   separator: {
     height: 16,

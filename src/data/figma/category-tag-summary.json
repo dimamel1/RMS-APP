@@ -1,0 +1,66 @@
+{
+  "nodeId": "21:4576",
+  "nodeName": "category-tag",
+  "extractedAt": "2025-11-11T14:35:08.226Z",
+  "texts": [
+    {
+      "id": "21:4574",
+      "name": "Nutrition-Obésité",
+      "text": "Nutrition-Obésité",
+      "fontSize": 12,
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "lineHeight": 15.935998916625977,
+      "color": {
+        "r": 0.7921568751335144,
+        "g": 0.07058823853731155,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "absoluteBoundingBox": {
+        "x": 674,
+        "y": 73.64898681640625,
+        "width": 95,
+        "height": 16
+      }
+    }
+  ],
+  "absoluteBoundingBox": {
+    "x": 670,
+    "y": 72.64898681640625,
+    "width": 103,
+    "height": 18
+  },
+  "backgroundColor": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ]
+}

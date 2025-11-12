@@ -1,0 +1,141 @@
+{
+  "id": "21:4576",
+  "name": "category-tag",
+  "type": "COMPONENT",
+  "scrollBehavior": "SCROLLS",
+  "children": [
+    {
+      "id": "21:4574",
+      "name": "Nutrition-Obésité",
+      "type": "TEXT",
+      "scrollBehavior": "SCROLLS",
+      "blendMode": "PASS_THROUGH",
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.7921568751335144,
+            "g": 0.07058823853731155,
+            "b": 0.11764705926179886,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "strokeAlign": "OUTSIDE",
+      "absoluteBoundingBox": {
+        "x": 674,
+        "y": 73.64898681640625,
+        "width": 95,
+        "height": 16
+      },
+      "absoluteRenderBounds": {
+        "x": 674.780029296875,
+        "y": 77.10498809814453,
+        "width": 93.493408203125,
+        "height": 8.7239990234375
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "layoutAlign": "INHERIT",
+      "layoutGrow": 0,
+      "layoutSizingHorizontal": "HUG",
+      "layoutSizingVertical": "HUG",
+      "characters": "Nutrition-Obésité",
+      "characterStyleOverrides": [],
+      "styleOverrideTable": {},
+      "lineTypes": [
+        "NONE"
+      ],
+      "lineIndentations": [
+        0
+      ],
+      "style": {
+        "fontFamily": "FreightSans Pro",
+        "fontPostScriptName": "FreightSansProBold-Regular",
+        "fontStyle": "Bold",
+        "fontWeight": 700,
+        "textAutoResize": "WIDTH_AND_HEIGHT",
+        "fontSize": 12,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "letterSpacing": 0,
+        "lineHeightPx": 15.935998916625977,
+        "lineHeightPercent": 100,
+        "lineHeightUnit": "INTRINSIC_%"
+      },
+      "layoutVersion": 5,
+      "effects": [],
+      "interactions": []
+    }
+  ],
+  "blendMode": "PASS_THROUGH",
+  "clipsContent": false,
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "layoutMode": "HORIZONTAL",
+  "counterAxisSizingMode": "FIXED",
+  "counterAxisAlignItems": "CENTER",
+  "primaryAxisAlignItems": "CENTER",
+  "paddingLeft": 4,
+  "paddingRight": 4,
+  "paddingTop": 10,
+  "paddingBottom": 10,
+  "itemSpacing": 10,
+  "layoutWrap": "NO_WRAP",
+  "absoluteBoundingBox": {
+    "x": 670,
+    "y": 72.64898681640625,
+    "width": 103,
+    "height": 18
+  },
+  "absoluteRenderBounds": {
+    "x": 670,
+    "y": 72.64898681640625,
+    "width": 103,
+    "height": 18
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutSizingHorizontal": "HUG",
+  "layoutSizingVertical": "FIXED",
+  "effects": [],
+  "interactions": []
+}

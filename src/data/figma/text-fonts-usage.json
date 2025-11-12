@@ -1,0 +1,2022 @@
+{
+  "totalTextNodes": 130,
+  "uniqueFonts": 8,
+  "fontUsage": {
+    "Inter-400": {
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "examples": [
+        {
+          "nodeName": "PUBLICITÉ",
+          "characters": "PUBLICITÉ",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "Voir toutes les infographies",
+          "characters": "Voir toutes les infographies",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "PUBLICITÉ",
+          "characters": "PUBLICITÉ",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "Déjà abonné ? Connectez-vous",
+          "characters": "Déjà abonné ? Connectez-vous",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "à la une",
+          "characters": "à la une",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Psychiatrie",
+          "characters": "Psychiatrie",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Chirurgie",
+          "characters": "Chirurgie",
+          "fontSize": 15
+        },
+        {
+          "nodeName": " ",
+          "characters": " ",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "à la une",
+          "characters": "à la une",
+          "fontSize": 15
+        }
+      ]
+    },
+    "Neusa-Neusa-Bold": {
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "examples": [
+        {
+          "nodeName": "Infographies patients",
+          "characters": "Infographies patients",
+          "fontSize": 22
+        },
+        {
+          "nodeName": "numéros à (re)découvrir",
+          "characters": "numéros à (re)découvrir",
+          "fontSize": 22
+        },
+        {
+          "nodeName": "dans les Numéros précédents",
+          "characters": "dans les Numéros précédents",
+          "fontSize": 22
+        },
+        {
+          "nodeName": "Dernier numéro",
+          "characters": "Dernier numéro",
+          "fontSize": 22
+        },
+        {
+          "nodeName": "Découvrir le sommaire",
+          "characters": "Découvrir le sommaire",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT POINT",
+          "characters": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT PO",
+          "fontSize": 26
+        },
+        {
+          "nodeName": "Notre sélection",
+          "characters": "Notre sélection",
+          "fontSize": 22
+        },
+        {
+          "nodeName": "Restez informés",
+          "characters": "Restez informés",
+          "fontSize": 22
+        }
+      ]
+    },
+    "FreightSans Pro-FreightSansProBold-Regular": {
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "examples": [
+        {
+          "nodeName": "Cardiologie",
+          "characters": "Cardiologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Pédiatrie",
+          "characters": "Pédiatrie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Cardiologie",
+          "characters": "Cardiologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Néphrologie",
+          "characters": "Néphrologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Médecine interne générale",
+          "characters": "Médecine interne générale",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Cardiologie",
+          "characters": "Cardiologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Pédiatrie",
+          "characters": "Pédiatrie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Pédiatrie",
+          "characters": "Pédiatrie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Pédiatrie",
+          "characters": "Pédiatrie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Médecine interne\ngénérale",
+          "characters": "Médecine interne\ngénérale",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Médecine interne\ngénérale",
+          "characters": "Médecine interne\ngénérale",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Médecine interne\ngénérale",
+          "characters": "Médecine interne\ngénérale",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Dermatologie",
+          "characters": "Dermatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Dermatologie",
+          "characters": "Dermatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Dermatologie",
+          "characters": "Dermatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Orthopédie",
+          "characters": "Orthopédie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Orthopédie",
+          "characters": "Orthopédie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Orthopédie",
+          "characters": "Orthopédie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Rhumatologie",
+          "characters": "Rhumatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Rhumatologie",
+          "characters": "Rhumatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Rhumatologie",
+          "characters": "Rhumatologie",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Nutrition-Obésité",
+          "characters": "Nutrition-Obésité",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "Nutrition-Obésité",
+          "characters": "Nutrition-Obésité",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 864",
+          "characters": "863",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 865",
+          "characters": "863",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 866",
+          "characters": "863",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 852",
+          "characters": "851",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 726",
+          "characters": "725",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 727",
+          "characters": "685",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 728",
+          "characters": "635",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 853",
+          "characters": "851",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 854",
+          "characters": "851",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 729",
+          "characters": "725",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 732",
+          "characters": "725",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 730",
+          "characters": "685",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 733",
+          "characters": "685",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 731",
+          "characters": "635",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 734",
+          "characters": "635",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "Nutrition-Obésité",
+          "characters": "Nutrition-Obésité",
+          "fontSize": 12
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 868",
+          "characters": " 863",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 869",
+          "characters": "914",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 870",
+          "characters": "816",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 871",
+          "characters": "725",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 872",
+          "characters": "986",
+          "fontSize": 13
+        }
+      ]
+    },
+    "FreightText Pro Bold-FreightTextProBold-Regular": {
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "examples": [
+        {
+          "nodeName": "Hygiène de vie et prévention de \nla maladie rénale chronique",
+          "characters": "Hygiène de vie et prévention de \nla maladie rénale",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+          "characters": "Physiopathologie et prise en charge de l’urticaire",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Mastocytose systémique indolente : tour d’horizon en 2025",
+          "characters": "Mastocytose systémique indolente : tour d’horizon ",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+          "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Anorexie, boulimie et hyperphagie boulimique : situation et perspectives",
+          "characters": "Anorexie, boulimie et hyperphagie boulimique : sit",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Des aiguilles pour une grossesse plus confortable",
+          "characters": "Des aiguilles pour une grossesse plus confortable",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+          "characters": "Hygiène de vie et prévention de la maladie rénale ",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+          "characters": "Hygiène de vie et prévention de la maladie rénale ",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+          "characters": "Hygiène de vie et prévention de la maladie rénale ",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+          "characters": "Physiopathologie et prise en charge de l’urticaire",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+          "characters": "Physiopathologie et prise en charge de l’urticaire",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+          "characters": "Physiopathologie et prise en charge de l’urticaire",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+          "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+          "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+          "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+          "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Perte de poids : quand l’image du corps ne suit pas",
+          "characters": "Perte de poids : quand l’image du corps ne suit pa",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Vulnérabilités et santé",
+          "characters": "Vulnérabilités et santé",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Maladies osseuses",
+          "characters": "Maladies osseuses",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Néphrologie de précision",
+          "characters": "Néphrologie de précision",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "La néphrologie : une spécialité de maladies rares",
+          "characters": "La néphrologie : une spécialité de maladies rares",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Cancer",
+          "characters": "Cancer",
+          "fontSize": 16
+        }
+      ]
+    },
+    "FreightSans Pro-FreightSansProBook-Regular": {
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "examples": [
+        {
+          "nodeName": "La prise en charge des patients atteints de maladies rhumatismales inflammatoires a connu des changements majeurs...",
+          "characters": "La prise en charge des patients atteints de maladi",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "S’alimenter est essentiel à la survie de tout organisme vivant. Cependant, au-delà de la simple nutrition, manger est une source de plaisir...",
+          "characters": "S’alimenter est essentiel à la survie de tout orga",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "La majorité des femmes enceintes souffrent de maux et d’inconforts au cours de leur grossesse, tels que nausées, vomissements ou lombalgies,...",
+          "characters": "La majorité des femmes enceintes souffrent de maux",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 863",
+          "characters": "28 février 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 851",
+          "characters": "12 janvier 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 725",
+          "characters": "23 décembre 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "16 avril 2023 | numéro 685\n",
+          "characters": "16 avril 2023 | numéro\n",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "08 avril 2023 | numéro 635",
+          "characters": "08 avril 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "Recevez chaque semaine les dernières actualités de la Revue Médicale Suisse",
+          "characters": "Recevez chaque semaine les dernières actualités de",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "L’image corporelle, définie comme la « vision interne » qu’une personne a d’elle-même, est multifactorielle...",
+          "characters": "L’image corporelle, définie comme la « vision inte",
+          "fontSize": 16
+        },
+        {
+          "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+          "characters": "Les termes de médecine de précision, médecine indi",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+          "characters": "Les termes de médecine de précision, médecine indi",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+          "characters": "Les termes de médecine de précision, médecine indi",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "Une maladie est considérée rare si elle touche au maximum  5 personnes...",
+          "characters": "Une maladie est considérée rare si elle touche au ",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "Une maladie est considérée rare si elle touche au maximum  5 personnes...",
+          "characters": "Une maladie est considérée rare si elle touche au ",
+          "fontSize": 14
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 863",
+          "characters": "28 février 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 867",
+          "characters": "28 février 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 851",
+          "characters": "12 janvier 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "12 janvier 2024 | numéro 855",
+          "characters": "12 janvier 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 725",
+          "characters": "23 décembre 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "23 décembre 2023 | numéro 735",
+          "characters": "23 décembre 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "16 avril 2023 | numéro 685\n",
+          "characters": "16 avril 2023 | numéro\n",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "16 avril 2023 | numéro 685\n",
+          "characters": "16 avril 2023 | numéro\n",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "08 avril 2023 | numéro 635",
+          "characters": "08 avril 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "08 avril 2023 | numéro 636",
+          "characters": "08 avril 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "28 février 2024 | numéro 863",
+          "characters": "28 février 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "07 janvier 2025 | numéro 914",
+          "characters": "07 janvier 2025 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "17 octobre 2023 | numéro 725",
+          "characters": "17 octobre 2023 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "1 mars 2024 | numéro 816",
+          "characters": "1 mars 2024 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "14 avril 2025 | numéro 986",
+          "characters": "14 avril 2025 | numéro",
+          "fontSize": 13
+        },
+        {
+          "nodeName": "Abonnez-vous à la Revue Médicale Suisse, le journal de formation continue leader en Suisse romande.",
+          "characters": "Abonnez-vous à la Revue Médicale Suisse, le journa",
+          "fontSize": 16
+        }
+      ]
+    },
+    "FreightSans Pro-FreightSansProSemibold-Regular": {
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProSemibold-Regular",
+      "fontWeight": 600,
+      "fontStyle": "Semibold",
+      "examples": [
+        {
+          "nodeName": "Éditorial",
+          "characters": "Éditorial",
+          "fontSize": 14
+        }
+      ]
+    },
+    "Neusa-Neusa-SemiBold": {
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-SemiBold",
+      "fontWeight": 600,
+      "fontStyle": "SemiBold",
+      "examples": [
+        {
+          "nodeName": "Je m'inscris à la newsletter",
+          "characters": "Je m'inscris à la newsletter",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Découvrir nos offres",
+          "characters": "Découvrir nos offres",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "S'abonner",
+          "characters": "S'abonner",
+          "fontSize": 15
+        }
+      ]
+    },
+    "FreightSansCndPro-FreightSansCndPro-Book": {
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "examples": [
+        {
+          "nodeName": "Menu",
+          "characters": "Menu",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Ma sélection",
+          "characters": "Ma sélection",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Tous les numéros",
+          "characters": "Tous les numéros",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Pédiatrie",
+          "characters": "Pédiatrie",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Néphrologie",
+          "characters": "Néphrologie",
+          "fontSize": 15
+        },
+        {
+          "nodeName": "Médecine interne générale",
+          "characters": "Médecine interne générale",
+          "fontSize": 15
+        }
+      ]
+    }
+  },
+  "allTextNodes": [
+    {
+      "nodeId": "1:4620",
+      "nodeName": "PUBLICITÉ",
+      "characters": "PUBLICITÉ",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4638",
+      "nodeName": "Voir toutes les infographies",
+      "characters": "Voir toutes les infographies",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4639",
+      "nodeName": "Infographies patients",
+      "characters": "Infographies patients",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4640",
+      "nodeName": "numéros à (re)découvrir",
+      "characters": "numéros à (re)découvrir",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4641",
+      "nodeName": "dans les Numéros précédents",
+      "characters": "dans les Numéros précédents",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4645",
+      "nodeName": "Dernier numéro",
+      "characters": "Dernier numéro",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4647",
+      "nodeName": "PUBLICITÉ",
+      "characters": "PUBLICITÉ",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4652",
+      "nodeName": "Découvrir le sommaire",
+      "characters": "Découvrir le sommaire",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4653",
+      "nodeName": "Cardiologie",
+      "characters": "Cardiologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4654",
+      "nodeName": "Pédiatrie",
+      "characters": "Pédiatrie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4655",
+      "nodeName": "Cardiologie",
+      "characters": "Cardiologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4656",
+      "nodeName": "Néphrologie",
+      "characters": "Néphrologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4657",
+      "nodeName": "Médecine interne générale",
+      "characters": "Médecine interne générale",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4658",
+      "nodeName": "Hygiène de vie et prévention de \nla maladie rénale chronique",
+      "characters": "Hygiène de vie et prévention de \nla maladie rénale",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4659",
+      "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+      "characters": "Physiopathologie et prise en charge de l’urticaire",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4660",
+      "nodeName": "Mastocytose systémique indolente : tour d’horizon en 2025",
+      "characters": "Mastocytose systémique indolente : tour d’horizon ",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4661",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4662",
+      "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+      "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4682",
+      "nodeName": "Cardiologie",
+      "characters": "Cardiologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4683",
+      "nodeName": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT POINT",
+      "characters": "LE CŒUR A SES RAISONS \nQUE LA RAISON NE CONNAÎT PO",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 26
+    },
+    {
+      "nodeId": "1:4684",
+      "nodeName": "La prise en charge des patients atteints de maladies rhumatismales inflammatoires a connu des changements majeurs...",
+      "characters": "La prise en charge des patients atteints de maladi",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4685",
+      "nodeName": "Éditorial",
+      "characters": "Éditorial",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProSemibold-Regular",
+      "fontWeight": 600,
+      "fontStyle": "Semibold",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4686",
+      "nodeName": "Notre sélection",
+      "characters": "Notre sélection",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4690",
+      "nodeName": "S’alimenter est essentiel à la survie de tout organisme vivant. Cependant, au-delà de la simple nutrition, manger est une source de plaisir...",
+      "characters": "S’alimenter est essentiel à la survie de tout orga",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4691",
+      "nodeName": "La majorité des femmes enceintes souffrent de maux et d’inconforts au cours de leur grossesse, tels que nausées, vomissements ou lombalgies,...",
+      "characters": "La majorité des femmes enceintes souffrent de maux",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4698",
+      "nodeName": "Anorexie, boulimie et hyperphagie boulimique : situation et perspectives",
+      "characters": "Anorexie, boulimie et hyperphagie boulimique : sit",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4699",
+      "nodeName": "Des aiguilles pour une grossesse plus confortable",
+      "characters": "Des aiguilles pour une grossesse plus confortable",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4704",
+      "nodeName": "Pédiatrie",
+      "characters": "Pédiatrie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4705",
+      "nodeName": "Pédiatrie",
+      "characters": "Pédiatrie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "21:67",
+      "nodeName": "Pédiatrie",
+      "characters": "Pédiatrie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4707",
+      "nodeName": "Médecine interne\ngénérale",
+      "characters": "Médecine interne\ngénérale",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4708",
+      "nodeName": "Médecine interne\ngénérale",
+      "characters": "Médecine interne\ngénérale",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "21:68",
+      "nodeName": "Médecine interne\ngénérale",
+      "characters": "Médecine interne\ngénérale",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4710",
+      "nodeName": "Dermatologie",
+      "characters": "Dermatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4711",
+      "nodeName": "Dermatologie",
+      "characters": "Dermatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "21:69",
+      "nodeName": "Dermatologie",
+      "characters": "Dermatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4713",
+      "nodeName": "Orthopédie",
+      "characters": "Orthopédie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4714",
+      "nodeName": "Orthopédie",
+      "characters": "Orthopédie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "21:70",
+      "nodeName": "Orthopédie",
+      "characters": "Orthopédie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4716",
+      "nodeName": "Rhumatologie",
+      "characters": "Rhumatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4717",
+      "nodeName": "Rhumatologie",
+      "characters": "Rhumatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "21:71",
+      "nodeName": "Rhumatologie",
+      "characters": "Rhumatologie",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4719",
+      "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+      "characters": "Hygiène de vie et prévention de la maladie rénale ",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4720",
+      "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+      "characters": "Hygiène de vie et prévention de la maladie rénale ",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "21:72",
+      "nodeName": "Hygiène de vie et prévention de la maladie rénale chronique",
+      "characters": "Hygiène de vie et prévention de la maladie rénale ",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4722",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4723",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "21:73",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4725",
+      "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+      "characters": "Physiopathologie et prise en charge de l’urticaire",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4726",
+      "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+      "characters": "Physiopathologie et prise en charge de l’urticaire",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "21:74",
+      "nodeName": "Physiopathologie et prise en charge de l’urticaire chronique",
+      "characters": "Physiopathologie et prise en charge de l’urticaire",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4728",
+      "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+      "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4729",
+      "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+      "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "21:75",
+      "nodeName": "Nouveautés diagnostiques et thérapeutiques dans l’artérite à cellules géantes (Horton)",
+      "characters": "Nouveautés diagnostiques et thérapeutiques dans l’",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4731",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4732",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "21:76",
+      "nodeName": "Diagnostic et prise en charge de l’hyponatrémie",
+      "characters": "Diagnostic et prise en charge de l’hyponatrémie",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4778",
+      "nodeName": "Nutrition-Obésité",
+      "characters": "Nutrition-Obésité",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4779",
+      "nodeName": "Nutrition-Obésité",
+      "characters": "Nutrition-Obésité",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4780",
+      "nodeName": "28 février 2024 | numéro 863",
+      "characters": "28 février 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:27",
+      "nodeName": "28 février 2024 | numéro 864",
+      "characters": "863",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:32",
+      "nodeName": "28 février 2024 | numéro 865",
+      "characters": "863",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:91",
+      "nodeName": "28 février 2024 | numéro 866",
+      "characters": "863",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:28",
+      "nodeName": "12 janvier 2024 | numéro 852",
+      "characters": "851",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4781",
+      "nodeName": "12 janvier 2024 | numéro 851",
+      "characters": "12 janvier 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:29",
+      "nodeName": "23 décembre 2023 | numéro 726",
+      "characters": "725",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:30",
+      "nodeName": "23 décembre 2023 | numéro 727",
+      "characters": "685",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:31",
+      "nodeName": "23 décembre 2023 | numéro 728",
+      "characters": "635",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:33",
+      "nodeName": "12 janvier 2024 | numéro 853",
+      "characters": "851",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:92",
+      "nodeName": "12 janvier 2024 | numéro 854",
+      "characters": "851",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4782",
+      "nodeName": "23 décembre 2023 | numéro 725",
+      "characters": "23 décembre 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:34",
+      "nodeName": "23 décembre 2023 | numéro 729",
+      "characters": "725",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:93",
+      "nodeName": "23 décembre 2023 | numéro 732",
+      "characters": "725",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:35",
+      "nodeName": "23 décembre 2023 | numéro 730",
+      "characters": "685",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:94",
+      "nodeName": "23 décembre 2023 | numéro 733",
+      "characters": "685",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:36",
+      "nodeName": "23 décembre 2023 | numéro 731",
+      "characters": "635",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:95",
+      "nodeName": "23 décembre 2023 | numéro 734",
+      "characters": "635",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4783",
+      "nodeName": "16 avril 2023 | numéro 685\n",
+      "characters": "16 avril 2023 | numéro\n",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4784",
+      "nodeName": "08 avril 2023 | numéro 635",
+      "characters": "08 avril 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4787",
+      "nodeName": "Restez informés",
+      "characters": "Restez informés",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-Bold",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 22
+    },
+    {
+      "nodeId": "1:4792",
+      "nodeName": "Recevez chaque semaine les dernières actualités de la Revue Médicale Suisse",
+      "characters": "Recevez chaque semaine les dernières actualités de",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4793",
+      "nodeName": "Je m'inscris à la newsletter",
+      "characters": "Je m'inscris à la newsletter",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-SemiBold",
+      "fontWeight": 600,
+      "fontStyle": "SemiBold",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4796",
+      "nodeName": "L’image corporelle, définie comme la « vision interne » qu’une personne a d’elle-même, est multifactorielle...",
+      "characters": "L’image corporelle, définie comme la « vision inte",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4799",
+      "nodeName": "Perte de poids : quand l’image du corps ne suit pas",
+      "characters": "Perte de poids : quand l’image du corps ne suit pa",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4803",
+      "nodeName": "Nutrition-Obésité",
+      "characters": "Nutrition-Obésité",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 12
+    },
+    {
+      "nodeId": "1:4804",
+      "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+      "characters": "Les termes de médecine de précision, médecine indi",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4805",
+      "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+      "characters": "Les termes de médecine de précision, médecine indi",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4806",
+      "nodeName": "Les termes de médecine de précision, médecine individualisée, ...",
+      "characters": "Les termes de médecine de précision, médecine indi",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4808",
+      "nodeName": "Vulnérabilités et santé",
+      "characters": "Vulnérabilités et santé",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4809",
+      "nodeName": "Maladies osseuses",
+      "characters": "Maladies osseuses",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4810",
+      "nodeName": "Néphrologie de précision",
+      "characters": "Néphrologie de précision",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4822",
+      "nodeName": "Une maladie est considérée rare si elle touche au maximum  5 personnes...",
+      "characters": "Une maladie est considérée rare si elle touche au ",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4823",
+      "nodeName": "Une maladie est considérée rare si elle touche au maximum  5 personnes...",
+      "characters": "Une maladie est considérée rare si elle touche au ",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 14
+    },
+    {
+      "nodeId": "1:4825",
+      "nodeName": "La néphrologie : une spécialité de maladies rares",
+      "characters": "La néphrologie : une spécialité de maladies rares",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4826",
+      "nodeName": "Cancer",
+      "characters": "Cancer",
+      "fontFamily": "FreightText Pro Bold",
+      "fontPostScriptName": "FreightTextProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4833",
+      "nodeName": "28 février 2024 | numéro 863",
+      "characters": "28 février 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:96",
+      "nodeName": "28 février 2024 | numéro 867",
+      "characters": "28 février 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4834",
+      "nodeName": "12 janvier 2024 | numéro 851",
+      "characters": "12 janvier 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:97",
+      "nodeName": "12 janvier 2024 | numéro 855",
+      "characters": "12 janvier 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4835",
+      "nodeName": "23 décembre 2023 | numéro 725",
+      "characters": "23 décembre 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:98",
+      "nodeName": "23 décembre 2023 | numéro 735",
+      "characters": "23 décembre 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4836",
+      "nodeName": "16 avril 2023 | numéro 685\n",
+      "characters": "16 avril 2023 | numéro\n",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:99",
+      "nodeName": "16 avril 2023 | numéro 685\n",
+      "characters": "16 avril 2023 | numéro\n",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4837",
+      "nodeName": "08 avril 2023 | numéro 635",
+      "characters": "08 avril 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:100",
+      "nodeName": "08 avril 2023 | numéro 636",
+      "characters": "08 avril 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4843",
+      "nodeName": "28 février 2024 | numéro 863",
+      "characters": "28 février 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:105",
+      "nodeName": "28 février 2024 | numéro 868",
+      "characters": " 863",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:107",
+      "nodeName": "28 février 2024 | numéro 869",
+      "characters": "914",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:108",
+      "nodeName": "28 février 2024 | numéro 870",
+      "characters": "816",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:109",
+      "nodeName": "28 février 2024 | numéro 871",
+      "characters": "725",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "21:110",
+      "nodeName": "28 février 2024 | numéro 872",
+      "characters": "986",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBold-Regular",
+      "fontWeight": 700,
+      "fontStyle": "Bold",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4844",
+      "nodeName": "07 janvier 2025 | numéro 914",
+      "characters": "07 janvier 2025 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4845",
+      "nodeName": "17 octobre 2023 | numéro 725",
+      "characters": "17 octobre 2023 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4846",
+      "nodeName": "1 mars 2024 | numéro 816",
+      "characters": "1 mars 2024 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4847",
+      "nodeName": "14 avril 2025 | numéro 986",
+      "characters": "14 avril 2025 | numéro",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 13
+    },
+    {
+      "nodeId": "1:4616",
+      "nodeName": "Abonnez-vous à la Revue Médicale Suisse, le journal de formation continue leader en Suisse romande.",
+      "characters": "Abonnez-vous à la Revue Médicale Suisse, le journa",
+      "fontFamily": "FreightSans Pro",
+      "fontPostScriptName": "FreightSansProBook-Regular",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4619",
+      "nodeName": "Découvrir nos offres",
+      "characters": "Découvrir nos offres",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-SemiBold",
+      "fontWeight": 600,
+      "fontStyle": "SemiBold",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4848",
+      "nodeName": "Déjà abonné ? Connectez-vous",
+      "characters": "Déjà abonné ? Connectez-vous",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4856",
+      "nodeName": "Menu",
+      "characters": "Menu",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4858",
+      "nodeName": "à la une",
+      "characters": "à la une",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4860",
+      "nodeName": "Ma sélection",
+      "characters": "Ma sélection",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4866",
+      "nodeName": "Tous les numéros",
+      "characters": "Tous les numéros",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4875",
+      "nodeName": "Pédiatrie",
+      "characters": "Pédiatrie",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4876",
+      "nodeName": "Psychiatrie",
+      "characters": "Psychiatrie",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4877",
+      "nodeName": "Chirurgie",
+      "characters": "Chirurgie",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4878",
+      "nodeName": "Néphrologie",
+      "characters": "Néphrologie",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4879",
+      "nodeName": "Médecine interne générale",
+      "characters": "Médecine interne générale",
+      "fontFamily": "FreightSansCndPro",
+      "fontPostScriptName": "FreightSansCndPro-Book",
+      "fontWeight": 350,
+      "fontStyle": "Book",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4880",
+      "nodeName": " ",
+      "characters": " ",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 16
+    },
+    {
+      "nodeId": "1:4909",
+      "nodeName": "à la une",
+      "characters": "à la une",
+      "fontFamily": "Inter",
+      "fontPostScriptName": null,
+      "fontWeight": 400,
+      "fontStyle": "Regular",
+      "fontSize": 15
+    },
+    {
+      "nodeId": "1:4921",
+      "nodeName": "S'abonner",
+      "characters": "S'abonner",
+      "fontFamily": "Neusa",
+      "fontPostScriptName": "Neusa-SemiBold",
+      "fontWeight": 600,
+      "fontStyle": "SemiBold",
+      "fontSize": 15
+    }
+  ]
+}
